@@ -1,0 +1,57 @@
+{
+  "employees": [
+        {
+            "id": 12,
+            "fullName": "Marco Polo",
+            "identityCard": "1111111155",
+            "email": "empleado1@gmail.com",
+            "birthDate": "1998-12-31",
+            "address": "Calle Bolivia",
+            "phone": "+591 75757575",
+            "vaccinatedState": true,
+            "vaccineType": "Pfizer",
+            "vaccinationDate": "1999-02-01",
+            "doses": 1
+        },
+        {
+            "id": 7,
+            "fullName": "Tulio Triviño",
+            "identityCard": "4567899875",
+            "email": "cliente@gmail.com",
+            "birthDate": "1990-10-05",
+            "address": "Calle Santiago de Chile",
+            "phone": "+595 305984652",
+            "vaccinatedState": false,
+            "vaccineType": null,
+            "vaccinationDate": null,
+            "doses": null
+        },
+        {
+            "id": 17,
+            "fullName": "Fernando Paredes",
+            "identityCard": "4445526086",
+            "email": "cliente7@gmail.com",
+            "birthDate": null,
+            "address": null,
+            "phone": null,
+            "vaccinatedState": false,
+            "vaccineType": null,
+            "vaccinationDate": null,
+            "doses": null
+        },
+        {
+            "id": 13,
+            "fullName": "Policarpo Paredes",
+            "identityCard": "4445556656",
+            "email": "cliente5@gmail.com",
+            "birthDate": null,
+            "address": null,
+            "phone": null,
+            "vaccinatedState": false,
+            "vaccineType": null,
+            "vaccinationDate": null,
+            "doses": null
+        }
+    ]
+
+}
